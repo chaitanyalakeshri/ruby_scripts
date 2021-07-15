@@ -11,4 +11,4 @@ def run_parameter(run_id)
     return run_para
 end
 
-puts run_parameter(5)
+puts run_parameter(run_ID)
